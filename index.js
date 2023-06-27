@@ -16,7 +16,7 @@ const { name, Lan } = require(join(__dirname, './package.json')) // https://www.
 const { say } = cfonts
 const rl = createInterface(process.stdin, process.stdout)
 
-say('LanzBot -  FG98', {
+say('Lanz-bot -  FG98', {
   font: 'chrome',
   align: 'center',
   gradient: ['red', 'magenta']
