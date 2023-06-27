@@ -1,5 +1,5 @@
 { 
-    "name": "dylux-bot",
+    "name": "Lanzx-bot",
     "version": "2.2.2",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -20,15 +20,15 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "dylux-bot",
-        "dylux-bot-md",
+        "Lanzx-bot",
+        "Lanzx-bot-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
     "homepage": "https://github.com/FG98F/dylux-fg",
     "author": {
-        "name": "FG98"
+        "name": "Lanzx"
     },
     "repository": {
         "type": "git",
